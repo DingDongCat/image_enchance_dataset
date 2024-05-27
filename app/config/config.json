@@ -1,0 +1,23 @@
+{
+    "Material": {
+        "AcrylicBlurRadius": 15
+    },
+    "Update": {
+        "CheckUpdateAtStartUp": true
+    },
+    "Folders": {
+        "Download": "D:/Python/workspace/graduation_project/app/download",
+        "LocalMusic": [
+            "D:/VSCode/workspace/light/scene_9"
+        ]
+    },
+    "MainWindow": {
+        "DpiScale": "Auto",
+        "Language": "zh_CN",
+        "MicaEnabled": true
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Light"
+    }
+}
